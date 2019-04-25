@@ -1,0 +1,16 @@
+{
+  "metadata" : {
+    "realm" : null,
+    "amsterVersion" : "6.5.1",
+    "entityType" : "Realms",
+    "entityId" : "L3RvdG8",
+    "pathParams" : { }
+  },
+  "data" : {
+    "_id" : "L3RvdG8",
+    "parentPath" : "/",
+    "active" : true,
+    "name" : "toto",
+    "aliases" : [ ]
+  }
+}
